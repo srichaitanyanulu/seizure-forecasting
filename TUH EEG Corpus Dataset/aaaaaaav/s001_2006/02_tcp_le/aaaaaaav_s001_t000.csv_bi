@@ -1,0 +1,7 @@
+# version = csv_v1.0.0
+# bname = aaaaaaav_s001_t000
+# duration = 1992.0000 secs
+# montage_file = nedc_eas_default_montage.txt
+#
+channel,start_time,stop_time,label,confidence
+TERM,1273.4520,1319.1885,seiz,1.0000
